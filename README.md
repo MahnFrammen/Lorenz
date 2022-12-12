@@ -14,6 +14,6 @@ To obtain the necessary libraries, download and install pip using any of the met
 
 Once pip has been installed, the following commands can be used to install SciPy, NumPy, and matplotlib:
 
-pip install numpy pip install scipy pip install matplotlib After installing everything, download Project1.py and open the file in the Python IDE of your choice and run.
+pip install numpy pip install scipy pip install matplotlib After installing everything, download Part1.py and Part2.py, and open the file in the Python IDE of your choice and run.
 
 Note: you may need to configure your specific IDE to utilize the previously installed libraries
